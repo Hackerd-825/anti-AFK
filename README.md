@@ -1,4 +1,5 @@
 # 🛡️ Anti-AFK V2.3
+![Aperçu Anti-AFK](https://raw.githubusercontent.com/Hackerd-825/anti-AFK/refs/heads/main/data/v2.3.png)
 
 ## 🔍 Description
 Anti-AFK V2.3 est un outil conçu pour simuler une activité utilisateur et éviter d'être marqué comme « AFK » (Away From Keyboard), notamment dans les jeux ou applications sensibles à l'inactivité.
